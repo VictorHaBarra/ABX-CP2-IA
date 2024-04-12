@@ -1,4 +1,4 @@
-<div align="center"> <h2>ABX-CP2-IA</h2></div>
+<div align="center"> <h2>DIRTYCODE</h2></div>
 
 <div align="center">
   <h3>Integrantes</h3>
