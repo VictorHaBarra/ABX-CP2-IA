@@ -7,9 +7,10 @@
     <li>Paulo Henrique Moreira Angueira - RM 99704(2TDSPH)</li>
     <li>Victor Hugo Astorino Barra Mansa - RM 550573(2TDSPH)</li>
   </ul>
+-
 
-
-  <h4>Os Desafios</h4>
+  📊Os Desafios
+  -
   <p>
    - A empresa gostaria de saber se é possível traçar alguma estratégia comum para cada grupo de cliente, no entanto essa análise nunca foi feita e ninguém, até o momento, sabe ao certo qual seria a melhor forma de conseguir realizar esse tipo de análise. Hoje, no conjunto de dados, não existem informações claras relativas ao segmento do cliente ou tamanho, apenas dados relativos ao faturamento, ano de fundação, endividamento e etc.
   </p>
