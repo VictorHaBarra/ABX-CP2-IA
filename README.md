@@ -24,3 +24,7 @@
    - A empresa deseja, entre outras coisas, criar um “robô automatizado” (na linguagem da própria empresa), que realize uma recomendação de crédito para que os analistas se baseiam nessa recomendação para conceder o limite máximo de crédito. Vale salientar que por se tratar de valores monetários é importante que este modelo tenha um bom desempenho.
   </p>
 </div>
+
+<div>
+  <img src="./cronograma.png"/>
+</div>
